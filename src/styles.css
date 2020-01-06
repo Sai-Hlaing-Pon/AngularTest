@@ -1,0 +1,43 @@
+/* You can add global styles to this file, and also import other style files */
+.panel {
+    width:400px;
+    height:160px;
+    background-color: #E6E6FA;
+    border:2px solid blue;  
+    font-weight: bold;
+    font-size: 110%;   
+    margin-left:30px;
+    margin-top:15px; 
+   }    
+
+   p {
+    margin-left: 30px;
+    margin-top: 15px;
+   }
+
+   form {
+    margin-left: 30px;
+    margin-top: 15px;
+   }
+
+   button {
+    margin-left:40px;
+    margin-top:10px;
+   }
+
+
+   .answer {
+    width:400px;
+    height:90px;
+    background-color: #E6E6FA;
+    border:2px solid blue;  
+    font-weight: bold;
+    font-size: 110%;   
+    margin-left:30px;
+    margin-top:15px; 
+   }    
+
+   form {
+    margin-left: 70px;
+    margin-top: 65px;
+   }
